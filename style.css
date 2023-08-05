@@ -1,0 +1,26 @@
+.myicon{
+    height:50px;
+    width: 50px;
+}
+
+.mynav:hover{
+    font-style: italic;
+    font-size: 20px;
+}
+
+.intro{
+    background-image: url(introimage.avif);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+.mybtn{
+    position: relative;
+    top: 300px;
+    left: 200px;
+    height: 100px;
+    width: 200px;
+}
